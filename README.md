@@ -205,5 +205,6 @@ Instruçoes para conectar banco de dados MySQL ao PowerBI https://learn.microsof
 ### 4. Transformação dos dados
 
 A transformaçao dos dados foi feita no Power Query do Power BI seguindo as [instruçoes do desafio](https://academiapme-my.sharepoint.com/:w:/g/personal/renato_dio_me/EVxAxO7akV5FoNy3mOk_3QwB3wKeyXMaFUi3ekTLQkY_sA?e=eJc3La). 
-    
+
+Novas tabelas foram criadas mesclando tabelas. Em anexo se encontra o arquivo do [relatório de power BI](ProjetoConsultaeTransformecomPBI.pbix).
 
